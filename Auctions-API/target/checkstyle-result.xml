@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="C:\Users\Christopher\git\Auctions\Auctions\Auctions-API\src\main\java\com\sainttx\auctions\api\Auction.java">
+</file>
+<file name="C:\Users\Christopher\git\Auctions\Auctions\Auctions-API\src\main\java\com\sainttx\auctions\api\AuctionManager.java">
+</file>
+<file name="C:\Users\Christopher\git\Auctions\Auctions\Auctions-API\src\main\java\com\sainttx\auctions\api\AuctionPlugin.java">
+</file>
+<file name="C:\Users\Christopher\git\Auctions\Auctions\Auctions-API\src\main\java\com\sainttx\auctions\api\event\AuctionAddTimeEvent.java">
+</file>
+<file name="C:\Users\Christopher\git\Auctions\Auctions\Auctions-API\src\main\java\com\sainttx\auctions\api\event\AuctionCreateEvent.java">
+</file>
+<file name="C:\Users\Christopher\git\Auctions\Auctions\Auctions-API\src\main\java\com\sainttx\auctions\api\event\AuctionEndEvent.java">
+</file>
+<file name="C:\Users\Christopher\git\Auctions\Auctions\Auctions-API\src\main\java\com\sainttx\auctions\api\event\AuctionEvent.java">
+</file>
+<file name="C:\Users\Christopher\git\Auctions\Auctions\Auctions-API\src\main\java\com\sainttx\auctions\api\event\AuctionPreBidEvent.java">
+</file>
+<file name="C:\Users\Christopher\git\Auctions\Auctions\Auctions-API\src\main\java\com\sainttx\auctions\api\event\AuctionStartEvent.java">
+</file>
+<file name="C:\Users\Christopher\git\Auctions\Auctions\Auctions-API\src\main\java\com\sainttx\auctions\api\Message.java">
+</file>
+<file name="C:\Users\Christopher\git\Auctions\Auctions\Auctions-API\src\main\java\com\sainttx\auctions\api\MessageFactory.java">
+</file>
+<file name="C:\Users\Christopher\git\Auctions\Auctions\Auctions-API\src\main\java\com\sainttx\auctions\api\messages\MessageGroup.java">
+</file>
+<file name="C:\Users\Christopher\git\Auctions\Auctions\Auctions-API\src\main\java\com\sainttx\auctions\api\messages\MessageGroupParser.java">
+</file>
+<file name="C:\Users\Christopher\git\Auctions\Auctions\Auctions-API\src\main\java\com\sainttx\auctions\api\messages\OnlinePlayersGroup.java">
+</file>
+<file name="C:\Users\Christopher\git\Auctions\Auctions\Auctions-API\src\main\java\com\sainttx\auctions\api\messages\WorldPlayersGroup.java">
+</file>
+<file name="C:\Users\Christopher\git\Auctions\Auctions\Auctions-API\src\main\java\com\sainttx\auctions\api\reward\ItemReward.java">
+</file>
+<file name="C:\Users\Christopher\git\Auctions\Auctions\Auctions-API\src\main\java\com\sainttx\auctions\api\reward\Reward.java">
+</file>
+<file name="C:\Users\Christopher\git\Auctions\Auctions\Auctions-API\src\main\java\com\sainttx\auctions\api\Settings.java">
+</file>
+</checkstyle>
